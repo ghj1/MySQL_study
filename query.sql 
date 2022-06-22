@@ -1,7 +1,0 @@
-CREATE TABLE cats
-(
-    cat_id INT NOT NULL AUTO_INCREMEN,
-    name VARCHAR(100),
-    age INT,
-    PARMARY KEY(cat_id)
-)
